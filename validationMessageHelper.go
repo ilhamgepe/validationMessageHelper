@@ -1,4 +1,4 @@
-package validationmessagehelper
+package validationMessageHelper
 
 import (
 	"errors"
