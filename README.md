@@ -13,7 +13,7 @@ The `validationMessageHelper` package provides utility functions to handle valid
 You can install the package using `go get`:
 
 ```bash
-go get github.com/ilhamgepe/validationMessageHelper
+go get -u github.com/ilhamgepe/validationMessageHelper
 ```
 
 ## Usage
